@@ -6,3 +6,4 @@ print("Hi, I'm Intizar today we are going to learn about Python programming lang
 
 print("Hi there")
 print("Department: CT")
+print("Date: 21-9-2027")
